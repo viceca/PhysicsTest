@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be20a9f1d9c4647479d1a5e20091ab15, type: 3}
+  m_Name: Control Model
+  m_EditorClassIdentifier: 
+  toVel: 5
+  maxVelSquared: 1000000
+  maxForce: 100
+  gain: 10
